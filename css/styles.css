@@ -61,3 +61,10 @@ body{
 .modal-title, .modal-body{
     color: #0F0F0F;
 }
+
+#cb {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
