@@ -58,3 +58,6 @@ body{
     left: 0;
     min-height: 300px;
 }
+.modal-title, .modal-body{
+    color: #0F0F0F;
+}
