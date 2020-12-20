@@ -19,6 +19,9 @@
   background: #9575CD;
   color: floralwhite; }
 
+.modal-content {
+  color: #0F0F0F; }
+
 address {
   font-size: 80%;
   margin: 0px;
@@ -52,3 +55,14 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal-header {
+  background: #512DA8;
+  color: floralwhite; }
+
+.modal-body {
+  background: #D1C4E9; }
+
+.card-body {
+  background: #D1C4E9;
+  border: none; }
